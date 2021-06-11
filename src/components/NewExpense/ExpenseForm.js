@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "./ExpenseForm.css";
 
-const ExpenseForm = ({ onAddExpense }) => {
+const ExpenseForm = ({ onAddExpense, setShowForm }) => {
   const initialStateData = {
     title: "",
     amount: "",
@@ -21,11 +21,12 @@ const ExpenseForm = ({ onAddExpense }) => {
 
     const data = {
       title: formData.title,
-      amount: formData.amount,
+      amount: +formData.amount,
       date: new Date(formData.date),
     };
     onAddExpense(data);
     setFormData(initialStateData);
+    setShowForm(false);
   };
   return (
     <form>
@@ -63,6 +64,15 @@ const ExpenseForm = ({ onAddExpense }) => {
         </div>
       </div>
       <div className="new-expense__actions">
+        <button
+          type="submit"
+          onClick={(event) => {
+            event.preventDefault();
+            setShowForm(false);
+          }}
+        >
+          Cancel
+        </button>
         <button type="submit" onClick={submitHandler}>
           Add Expense
         </button>
