@@ -3,6 +3,7 @@
 # dependencies
 app-1/node_modules
 app-2/node_modules
+app-3/node_modules
 /.pnp
 .pnp.js
 
@@ -11,6 +12,7 @@ app-2/node_modules
 
 # production
 app-1/build
+app-2/build
 app-2/build
 
 # misc

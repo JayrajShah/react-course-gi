@@ -1,0 +1,28 @@
+.showUser__container {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+.showUser__item {
+  width: 100%;
+  height: 50px;
+  border-bottom: 1px solid rgba(236, 236, 236, 0.2);
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 0 1rem;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.noUser {
+  width: 100%;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 1rem;
+  font-size: 20px;
+  font-weight: 500;
+}
