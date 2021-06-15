@@ -5,6 +5,7 @@ app-1/node_modules
 app-2/node_modules
 app-3/node_modules
 app-4/node_modules
+app-5/node_modules
 /.pnp
 .pnp.js
 
@@ -16,6 +17,7 @@ app-1/build
 app-2/build
 app-3/build
 app-4/build
+app-5/build
 
 # misc
 .DS_Store
