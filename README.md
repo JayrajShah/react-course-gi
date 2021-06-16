@@ -21,3 +21,7 @@ Project covers 11th Section
 # 6. Demo-App: optimizing React
 
 Project covers 12th Section
+
+# 7. Class based Components
+
+Project covers 13th Section
