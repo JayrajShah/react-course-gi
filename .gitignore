@@ -8,6 +8,10 @@ app-4/node_modules
 app-5/node_modules
 app-6/node_modules
 app-7/node_modules
+app-8/node_modules
+app-8_1/node_modules
+app-9/node_modules
+app-9_1/node_modules
 /.pnp
 .pnp.js
 
@@ -22,6 +26,10 @@ app-4/build
 app-5/build
 app-6/build
 app-7/build
+app-8/build
+app-8_1/build
+app-9/build
+app-9_1/build
 # misc
 .DS_Store
 .env.local

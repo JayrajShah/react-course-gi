@@ -25,3 +25,11 @@ Project covers 12th Section
 # 7. Class based Components
 
 Project covers 13th Section
+
+# 8. Sending Http Request
+
+Project covers 14th Section
+
+# 9. Creating Custom hooks
+
+Project covers 15th Section
