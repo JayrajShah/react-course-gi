@@ -16,7 +16,7 @@ Project covers 10th Section
 
 # 5. Food Ordering App
 
-Project covers 11th Section
+Project covers 11th and 17th Section
 
 # 6. Demo-App: optimizing React
 
