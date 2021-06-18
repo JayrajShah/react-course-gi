@@ -34,6 +34,6 @@ Project covers 14th Section
 
 Project covers 15th Section
 
-# 9. Ultimate form Validation with hooks
+# 10. Ultimate form Validation with hooks
 
 Project covers 16th Section
