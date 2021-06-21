@@ -37,3 +37,7 @@ Project covers 15th Section
 # 10. Ultimate form Validation with hooks
 
 Project covers 16th Section
+
+# 11. Basic Redux and Redux toolkit
+
+Project covers 18th Section
