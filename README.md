@@ -41,3 +41,7 @@ Project covers 16th Section
 # 11. Basic Redux and Redux toolkit
 
 Project covers 18th Section
+
+# 12. Redux Cart Functionality
+
+Project covers 19th Section
