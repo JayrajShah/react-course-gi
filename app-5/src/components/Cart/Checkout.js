@@ -17,6 +17,7 @@ const Checkout = (props) => {
 
     const payLoad = {
       userData: {
+        email: JSON.parse(localStorage.getItem("token")).email,
         name: nameRef.current.value,
         street: streetRef.current.value,
         postal: postalRef.current.value,
