@@ -42,6 +42,10 @@ Project covers 16th Section
 
 Project covers 18th Section
 
-# 12. Redux Cart Functionality
+# 12. Redux Cart Functionality | Action Creator Thunk
 
 Project covers 19th Section
+
+# 13. Converting SPA to Multipage App | React Router
+
+Project covers 20th Section
