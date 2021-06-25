@@ -18,6 +18,8 @@ app-12/node_modules
 app-13/node_modules
 app-13_1/node_modules
 app-14/node_modules
+app-15/node_modules
+app-15_1/node_modules
 /.pnp
 .pnp.js
 
@@ -42,12 +44,17 @@ app-12/build
 app-13/build
 app-13_1/build
 app-14/build
+app-15/build
+app-15_1/build
 # misc
 .DS_Store
 .env.local
 .env.development.local
 .env.test.local
 .env.production.local
+
+app-15/.next
+app-15_1/.next
 
 npm-debug.log*
 yarn-debug.log*

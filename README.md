@@ -51,6 +51,10 @@ Project covers 19th Section
 Project covers 20,21 Sections<br>
 <a href="https://react-http-48387.web.app">View Hosted Project</a>
 
-# 13. Creating an Authentication App | React Auth With Firebase API
+# 14. Creating an Authentication App | React Auth With Firebase API
 
 Project covers 22 Section
+
+# 15. MeetUp App | NextJS
+
+Project covers 23 Section
