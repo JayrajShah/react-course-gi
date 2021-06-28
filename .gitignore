@@ -20,6 +20,7 @@ app-13_1/node_modules
 app-14/node_modules
 app-15/node_modules
 app-15_1/node_modules
+app-16/node_modules
 /.pnp
 .pnp.js
 
@@ -46,6 +47,7 @@ app-13_1/build
 app-14/build
 app-15/build
 app-15_1/build
+app-16/build
 # misc
 .DS_Store
 .env.local
